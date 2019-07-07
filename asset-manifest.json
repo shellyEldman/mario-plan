@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mario-plan/static/css/main.1135c735.chunk.css",
+    "main.js": "/mario-plan/static/js/main.66ff6f4d.chunk.js",
+    "main.js.map": "/mario-plan/static/js/main.66ff6f4d.chunk.js.map",
+    "runtime~main.js": "/mario-plan/static/js/runtime~main.f6f1b299.js",
+    "runtime~main.js.map": "/mario-plan/static/js/runtime~main.f6f1b299.js.map",
+    "static/js/2.a3cc4a0d.chunk.js": "/mario-plan/static/js/2.a3cc4a0d.chunk.js",
+    "static/js/2.a3cc4a0d.chunk.js.map": "/mario-plan/static/js/2.a3cc4a0d.chunk.js.map",
+    "index.html": "/mario-plan/index.html",
+    "precache-manifest.73abc18a4220f5a52fc5e6e9f8733ac2.js": "/mario-plan/precache-manifest.73abc18a4220f5a52fc5e6e9f8733ac2.js",
+    "service-worker.js": "/mario-plan/service-worker.js",
+    "static/css/main.1135c735.chunk.css.map": "/mario-plan/static/css/main.1135c735.chunk.css.map",
+    "static/media/index.css": "/mario-plan/static/media/mario-bg.0ab14f44.png"
+  }
+}
